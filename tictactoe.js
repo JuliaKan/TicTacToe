@@ -1,9 +1,4 @@
-// let gameboard = {
-//     rowone:[1,2,3],
-//     rowtwo:[4,5,6],
-//     rowthree:[7,8,9]
-// }
-//let gameboard = [1,2,3,4,5,6,7,8,9]
+
 
 let game = {
     currentPlayer: 'X',
